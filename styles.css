@@ -2,6 +2,10 @@ body {
     background-color: olive;
 }
 
+.image {
+    text-align: center;
+}
+
 .header, .header2, .description {
     color: antiquewhite;
     text-align: center;
