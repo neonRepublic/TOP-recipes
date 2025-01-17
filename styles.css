@@ -11,14 +11,17 @@ body {
     text-align: center;
     font-size: 36px;
     font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .text {
     text-align: center;
     color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .list {
     font-size: 24px;
     color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
 }
