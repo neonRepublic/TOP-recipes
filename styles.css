@@ -1,5 +1,9 @@
+* {
+    outline: 2px solid red;
+}
+
 body {
-    background-color: olive;
+    background-color: honeydew;
 }
 
 .image {
@@ -7,7 +11,7 @@ body {
 }
 
 .header, .header2, .description {
-    color: antiquewhite;
+    color: navy;
     text-align: center;
     font-size: 36px;
     font-weight: bold;
@@ -16,12 +20,13 @@ body {
 
 .text {
     text-align: center;
-    color: whitesmoke;
+    color: navy;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .list {
     font-size: 24px;
-    color: whitesmoke;
+    color: navy;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
